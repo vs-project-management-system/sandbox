@@ -1,0 +1,30 @@
+[submodule "vagrant"]
+	path = vagrant
+	url =https://github.com/vs-project-management-system/vagrant.git
+[submodule "fixtures-bundle"]
+        path = src/PMS/Bundle/FixturesBundle
+        url = https://github.com/vs-project-management-system/fixtures-bundle.git
+[submodule "user"]
+        path = src/PMS/Component/User
+        url = https://github.com/vs-project-management-system/user.git
+[submodule "user-bundle"]
+        path = src/PMS/Bundle/UserBundle
+        url = https://github.com/vs-project-management-system/user-bundle.git
+[submodule "core"]
+        path = src/PMS/Component/Core
+        url = https://github.com/vs-project-management-system/core.git
+[submodule "core-bundle"]
+        path = src/PMS/Bundle/CoreBundle
+        url = https://github.com/vs-project-management-system/core-bundle.git
+[submodule "addressing"]
+        path = src/PMS/Component/Addressing
+        url = https://github.com/vs-project-management-system/addressing.git
+[submodule "addressing-bundle"]
+        path = src/PMS/Bundle/AddressingBundle
+        url = https://github.com/vs-project-management-system/addressing-bundle.git
+[submodule "project"]
+        path = src/PMS/Component/Project
+        url = https://github.com/vs-project-management-system/project.git
+[submodule "project-bundle"]
+        path = src/PMS/Bundle/ProjectBundle
+        url = https://github.com/vs-project-management-system/project-bundle.git
